@@ -15,7 +15,7 @@ This requires you to have a Cloudflare Workers account and have the Workers CLI 
 $ wrangler secret put RECAPTCHA_SECRET --env recaptcha-worker
 ```
 
-3. Write the client-side request code (see Usage) 
+3. Write the client-side request code (see Usage) 1
 
 ## Usage
 
